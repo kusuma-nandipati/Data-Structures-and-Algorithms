@@ -1,7 +1,7 @@
 # 📘 DSA Notes and Assignments
 
 This repository contains my **Data Structures and Algorithms** notes, assignments, and coding practice.  
-It is a collection of important concepts, solved problems, and implementation codes in Python (and/or C++/Java).
+It is a collection of important concepts, solved problems, and implementation codes in Python .
 
 ## 📂 Folder Structure
 - `Notes/` → Handwritten and digital notes  
